@@ -1,0 +1,6 @@
+pe\isil\eparcial\user\model\User.class
+pe\isil\eparcial\user\controller\LoginServlet.class
+pe\isil\eparcial\user\controller\UserServlet.class
+pe\isil\eparcial\user\dao\mysql\MysqlConnection.class
+pe\isil\eparcial\user\controller\PassServlet.class
+pe\isil\eparcial\user\dao\UserDao.class
